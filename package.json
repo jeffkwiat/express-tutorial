@@ -1,0 +1,31 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Exploring Node + Express Web Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffkwiat/express-tutorial.git"
+  },
+  "author": "Jeff Kwiat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffkwiat/express-tutorial/issues"
+  },
+  "homepage": "https://github.com/jeffkwiat/express-tutorial#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "wiredep": "^4.0.0"
+  }
+}
